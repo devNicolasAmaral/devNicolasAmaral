@@ -61,7 +61,7 @@ Atualmente estudando:
 ---
 
 ### 📫 Contato
-📧 **nicolas.amaral.dev@gmail.com**  
+📧 **nicolas.o.amaral@gmail.com**  
 🔗 [LinkedIn](https://linkedin.com/in/nicolas-amaral)  
 🐙 [GitHub](https://github.com/devNicolasAmaral)
 
