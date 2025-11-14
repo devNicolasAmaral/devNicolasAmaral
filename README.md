@@ -8,7 +8,7 @@
 ---
 
 ### 🧠 Sobre mim
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e atualmente **estagiário na GE**, com foco em **backend e engenharia de sistemas em C++**.  
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **backend e engenharia de sistemas em C++**.  
 Meu objetivo é dominar a construção de **infraestrutura robusta**, **APIs de alto desempenho** e **serviços distribuídos**, explorando ao máximo o potencial do C++ moderno (C++20/23).
 
 Trabalho constantemente em projetos que unem **baixo nível, concorrência e arquitetura de software**, evoluindo de forma pragmática para o mercado de backend de alta escala.
