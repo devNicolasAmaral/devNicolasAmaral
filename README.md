@@ -51,8 +51,8 @@ Here are some real-world problems I've solved with code:
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=dark&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devNicolasAmaral&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devNicolasAmaral&layout=compact&theme=dark&hide_border=true&bg_color=0d1117"/>
 </div>
 
 ---
@@ -61,5 +61,5 @@ Here are some real-world problems I've solved with code:
 
 I am open to **Freelance projects** and **Full-time opportunities** in Automation and Python Development.
 
-* [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN)
-* [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI)
+* [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-amaral/)
+* [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nicolas.o.amaral@gmail.com)
