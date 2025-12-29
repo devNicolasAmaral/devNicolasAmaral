@@ -1,72 +1,55 @@
-<h1 align="center">Nicolas Amaral</h1>
+# Olá, eu sou o [Seu Nome]! 👋
+## Desenvolvedor Python | Especialista em Automação & RPA
 
-<p align="center">
-  <strong>Backend Developer | C++ Systems & Infrastructure | Estagiário na GE</strong><br>
-  <sub>Desenvolvendo sistemas de alta performance e arquiteturas escaláveis com C++</sub>
-</p>
+> *"Transformo tarefas manuais repetitivas em scripts eficientes."*
 
----
+Sou estudante de **Análise e Desenvolvimento de Sistemas** com foco prático em **Python para Negócios**. Meu objetivo é ajudar empresas e profissionais a economizar horas de trabalho através da automação de processos, Web Scraping e tratamento de dados.
 
-### 🧠 Sobre mim
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **backend e engenharia de sistemas em C++**.  
-Meu objetivo é dominar a construção de **infraestrutura robusta**, **APIs de alto desempenho** e **serviços distribuídos**, explorando ao máximo o potencial do C++ moderno (C++20/23).
-
-Trabalho constantemente em projetos que unem **baixo nível, concorrência e arquitetura de software**, evoluindo de forma pragmática para o mercado de backend de alta escala.
+Possuo vivência em ambientes corporativos (SAP) e entendo que o código precisa resolver uma dor real do negócio.
 
 ---
 
-### ⚙️ Stack e Ferramentas
+### 🛠️ Arsenal Técnico
 
-| Categoria | Tecnologias |
-|------------|-------------|
-| **Linguagens** | C++20/23, Python (para scripts e automação), Bash |
-| **Ferramentas** | Linux, CMake, Git, Valgrind, gdb |
-| **Banco e Cache** | PostgreSQL, Redis |
-| **Conceitos** | Multithreading, REST APIs, Networking (sockets, epoll), Performance tuning |
-| **Outros** | Docker, Makefile, Design Patterns, CI/CD básico (GitHub Actions) |
+Minha stack é focada em **eficiência** e **entregáveis rápidos**:
 
----
-
-### 🚀 Projetos em destaque
-
-#### 🧩 [Distributed Log Analyzer](#)
-> Sistema distribuído para coleta e análise em tempo real de logs de múltiplos serviços.  
-> Integra conceitos de redes, multithreading e métricas agregadas.  
-
-#### ⚙️ [Job Queue Server](#)
-> Servidor que processa tarefas assíncronas em segundo plano com filas e threads,  
-> implementando controle de concorrência e escalabilidade horizontal.  
-
-#### 💻 [Hardware Monitor API](#)
-> API REST em C++ que coleta métricas de hardware (CPU, memória, temperatura)  
-> e as expõe para monitoramento local via HTTP.  
+* **Automação Web:** `Selenium`, `Playwright`, `Requests`
+* **Manipulação de Dados:** `Pandas`, `OpenPyXL`, `Regex`
+* **Integração:** APIs (Google Sheets, Drive), Automação de Arquivos (OS, Shutil)
+* **Empacotamento:** Criação de executáveis (`.exe`) para usuários finais
 
 ---
 
-### 🧩 Filosofia de desenvolvimento
-> “Código é só consequência da clareza sobre o sistema.”
+### 🚀 Projetos em Destaque
 
-- Entendo backend como **engenharia de comportamento sob carga**, não apenas rotas e dados.  
-- Foco em **dominar fundamentos** (concorrência, alocação, arquitetura de software) antes de abstrações.  
-- Busco **escrever C++ limpo, mensurável e testável**, mesmo em sistemas complexos.  
+Aqui estão algumas soluções que desenvolvi:
 
----
+#### 1. 🤖 Bot de Extração de Faturas (Neoenergia/Utilities)
+* **O Problema:** Necessidade de baixar manualmente dezenas de faturas em PDF de um portal com login e CAPTCHA.
+* **A Solução:** Script Python que realiza login híbrido, navega até o histórico financeiro e baixa apenas as faturas pendentes.
+* **Tecnologia:** Selenium WebDriver, Python.
 
-### 📈 Status e progresso
-Atualmente estudando:
-- **C++ avançado (modern features, memory model, concurrency)**
-- **Arquitetura de servidores backend e design de APIs escaláveis**
-- **Ferramentas de observabilidade e profiling de performance**
+#### 2. 📊 Monitor de Preços e Leilões
+* **O Problema:** Monitorar concorrentes ou oportunidades em tempo real é inviável manualmente.
+* **A Solução:** Scraper que varre sites de e-commerce/leilões, extrai nome, preço e status, e exporta para um Excel formatado para tomada de decisão.
+* **Tecnologia:** Requests, BeautifulSoup, Pandas.
 
----
-
-### 📫 Contato
-📧 **nicolas.o.amaral@gmail.com**  
-🔗 [LinkedIn](https://linkedin.com/in/nicolas-amaral)  
-🐙 [GitHub](https://github.com/devNicolasAmaral)
+#### 3. 📂 Organizador Automático de Arquivos
+* **O Problema:** Pastas de downloads bagunçadas com milhares de arquivos misturados.
+* **A Solução:** Script que monitora pastas e move arquivos automaticamente baseados em extensão ou data para diretórios organizados.
 
 ---
 
-<p align="center">
-  <sub>“A clareza técnica é o que diferencia quem escreve código de quem constrói sistemas.”</sub>
-</p>
+### 📈 Estatísticas
+
+![Suas Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dark&hide_border=true)
+![Suas Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dark&hide_border=true)
+
+---
+
+### 📫 Vamos conversar?
+
+Estou disponível para projetos freelance de automação e oportunidades em RPA.
+
+* [LinkedIn](SEU_LINK_DO_LINKEDIN)
+* [Email](mailto:SEU_EMAIL)
