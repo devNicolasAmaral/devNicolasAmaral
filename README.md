@@ -50,10 +50,9 @@ Here are some real-world problems I've solved with code:
 
 ### 📈 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devNicolasAmaral&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devNicolasAmaral&layout=compact&theme=dark&hide_border=true&bg_color=0d1117"/>
-</div>
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=devNicolasAmaral&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
+
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=devNicolasAmaral&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&hide=html,css)
 
 ---
 
