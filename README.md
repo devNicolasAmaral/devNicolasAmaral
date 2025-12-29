@@ -1,64 +1,75 @@
-# Hi there, I'm Nicolas Amaral! 👋
-## Python Developer | RPA & Process Automation Specialist
+<h1 align="center">Nicolas Amaral</h1>
 
-> *"Transforming manual, repetitive tasks into efficient, automated workflows."*
-
-I am a Software Developer and Systems Analysis student focused on **Business Process Automation (RPA)** and **Data Extraction**. My background includes experience with corporate systems (like **SAP**) and a strong understanding of how to bridge the gap between manual operations and software efficiency.
-
-Currently, I help businesses save hours of operational time by building robust bots and scripts that handle data entry, web scraping, and report generation with precision.
+<p align="center">
+  <strong>Python Developer | Automação de Processos (RPA) & Dados</strong><br>
+  <sub>Transformando tarefas manuais repetitivas em fluxos digitais eficientes e lucrativos.</sub>
+</p>
 
 ---
 
-### 🛠️ Technical Arsenal
+### 🧠 Sobre mim
+Sou desenvolvedor focado em **Automação (RPA) e Engenharia de Dados** com Python. Minha abordagem une a técnica da programação com a visão de negócios (background com **SAP** e processos corporativos).
 
-I focus on tools that deliver **speed** and **reliability** in production environments:
+Meu objetivo não é apenas escrever código, mas **construir robôs e scripts que economizam horas de trabalho humano**, garantindo precisão na extração de dados (Web Scraping) e na geração de relatórios estratégicos.
 
-* **Web Automation & Scraping:**
-    ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-    ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-    ![Requests](https://img.shields.io/badge/-Requests-black?style=flat)
-    
-* **Data Manipulation & Reporting:**
-    ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-    ![Excel Automation](https://img.shields.io/badge/-Excel_Automation-217346?style=flat&logo=microsoft-excel&logoColor=white)
-    ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-* **Deployment & Tools:**
-    ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-    ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-    ![Executable Deployment](https://img.shields.io/badge/-PyInstaller-informational?style=flat)
+Atuo como freelancer resolvendo problemas reais de empresas, desde a coleta de dados em sites complexos até a integração de sistemas legados.
 
 ---
 
-### 🚀 Featured Projects
+### ⚙️ Stack e Ferramentas
 
-Here are some real-world problems I've solved with code:
-
-#### 🤖 **Automated Invoice Retrieval System (RPA)**
-* **The Challenge:** A manual process requiring login to a utility portal, CAPTCHA handling, and downloading dozens of specific PDF invoices monthly.
-* **The Solution:** Developed a robust Python/Selenium bot with "Hybrid Login" capability (handling dynamic CAPTCHAs) to autonomously navigate, filter, and download files.
-* **Impact:** Eliminated manual data entry errors and reduced processing time by 90%.
-* [View Repository](#) *(Link to your repo)*
-
-#### 📊 **Market Intelligence Scraper**
-* **The Challenge:** Aggregating pricing data from multiple e-commerce sources to analyze market trends.
-* **The Solution:** A high-speed scraper using `Requests` and `Pandas` to extract, clean, and structure data into actionable Excel reports.
-* **Impact:** Provided real-time competitive analysis data for decision-making.
-* [View Repository](#) *(Link to your repo)*
+| Categoria | Tecnologias & Bibliotecas |
+|------------|-------------|
+| **Linguagens** | Python (Foco Principal), SQL, Bash |
+| **Web Scraping** | Selenium WebDriver, Requests, BeautifulSoup, Playwright |
+| **Dados & Excel** | Pandas, OpenPyXL, Regex, JSON/XML |
+| **Deploy & Ferramentas** | PyInstaller (.exe), Git/GitHub, Docker (básico), Task Scheduler |
+| **Conceitos** | Bot Detection Bypass, CAPTCHA Solving, ETL (Extract, Transform, Load) |
 
 ---
 
-### 📈 GitHub Stats
+### 🚀 Projetos em destaque
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=devNicolasAmaral&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
+#### 🤖 [Auto-Invoice Downloader (RPA)](#)
+> Robô de automação para setor financeiro/utilities (Ex: Neoenergia).  
+> Realiza login híbrido (humano/robô), navega por portais complexos e baixa faturas em PDF automaticamente, organizando por data e vencimento.  
 
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=devNicolasAmaral&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&hide=html,css)
+#### 📊 [E-commerce Price Monitor](#)
+> Ferramenta de inteligência de mercado que monitora preços de concorrentes.  
+> Coleta dados em tempo real, trata as informações (limpeza de R$, formatação) e exporta relatórios prontos para decisão em Excel/Google Sheets.  
+
+#### 📂 [Smart File Organizer](#)
+> Script de infraestrutura que monitora diretórios de downloads e servidores de arquivos.  
+> Identifica, renomeia e move arquivos automaticamente baseando-se em regras de negócio (Extensão, Data, Cliente).  
 
 ---
 
-### 📫 Let's Connect
+### 🧩 Filosofia de trabalho
+> “Automação não é sobre preguiça, é sobre eficiência.”
 
-I am open to **Freelance projects** and **Full-time opportunities** in Automation and Python Development.
+- **Robustez primeiro:** Um robô não pode parar porque a internet oscilou. Meus scripts têm tratamento de erros e *retry* automático.
+- **Dados Limpos:** Não entrego apenas o dado bruto; entrego a informação tratada e pronta para uso.
+- **Entregáveis Simples:** O cliente final quer um `.exe` ou uma planilha, não um terminal complexo.
 
-* [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-amaral/)
-* [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nicolas.o.amaral@gmail.com)
+---
+
+### 📈 Estatísticas
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=devNicolasAmaral&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&count_private=true"/>
+  
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devNicolasAmaral&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&hide=html,css,jupyter%20notebook,tex"/>
+</div>
+
+---
+
+### 📫 Contato
+Estou disponível para projetos freelance e consultoria em automação.
+
+📧 **[SEU_EMAIL_AQUI]** 🔗 [LinkedIn]([LINK_DO_SEU_LINKEDIN])  
+
+---
+
+<p align="center">
+  <sub>“A qualidade do código define a longevidade da automação.”</sub>
+</p>
