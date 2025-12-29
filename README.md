@@ -1,55 +1,65 @@
-# Olá, eu sou o Nicolas Amaral! 👋
-## Desenvolvedor Python | Especialista em Automação & RPA
+# Hi there, I'm Nicolas Amaral! 👋
+## Python Developer | RPA & Process Automation Specialist
 
-> *"Transformo tarefas manuais repetitivas em scripts eficientes."*
+> *"Transforming manual, repetitive tasks into efficient, automated workflows."*
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** com foco prático em **Python para Negócios**. Meu objetivo é ajudar empresas e profissionais a economizar horas de trabalho através da automação de processos, Web Scraping e tratamento de dados.
+I am a Software Developer and Systems Analysis student focused on **Business Process Automation (RPA)** and **Data Extraction**. My background includes experience with corporate systems (like **SAP**) and a strong understanding of how to bridge the gap between manual operations and software efficiency.
 
-Possuo vivência em ambientes corporativos (SAP) e entendo que o código precisa resolver uma dor real do negócio.
-
----
-
-### 🛠️ Arsenal Técnico
-
-Minha stack é focada em **eficiência** e **entregáveis rápidos**:
-
-* **Automação Web:** `Selenium`, `Playwright`, `Requests`
-* **Manipulação de Dados:** `Pandas`, `OpenPyXL`, `Regex`
-* **Integração:** APIs (Google Sheets, Drive), Automação de Arquivos (OS, Shutil)
-* **Empacotamento:** Criação de executáveis (`.exe`) para usuários finais
+Currently, I help businesses save hours of operational time by building robust bots and scripts that handle data entry, web scraping, and report generation with precision.
 
 ---
 
-### 🚀 Projetos em Destaque
+### 🛠️ Technical Arsenal
 
-Aqui estão algumas soluções que desenvolvi:
+I focus on tools that deliver **speed** and **reliability** in production environments:
 
-#### 1. 🤖 Bot de Extração de Faturas (Neoenergia/Utilities)
-* **O Problema:** Necessidade de baixar manualmente dezenas de faturas em PDF de um portal com login e CAPTCHA.
-* **A Solução:** Script Python que realiza login híbrido, navega até o histórico financeiro e baixa apenas as faturas pendentes.
-* **Tecnologia:** Selenium WebDriver, Python.
+* **Web Automation & Scraping:**
+    ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+    ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+    ![Requests](https://img.shields.io/badge/-Requests-black?style=flat)
+    
+* **Data Manipulation & Reporting:**
+    ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+    ![Excel Automation](https://img.shields.io/badge/-Excel_Automation-217346?style=flat&logo=microsoft-excel&logoColor=white)
+    ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-#### 2. 📊 Monitor de Preços e Leilões
-* **O Problema:** Monitorar concorrentes ou oportunidades em tempo real é inviável manualmente.
-* **A Solução:** Scraper que varre sites de e-commerce/leilões, extrai nome, preço e status, e exporta para um Excel formatado para tomada de decisão.
-* **Tecnologia:** Requests, BeautifulSoup, Pandas.
-
-#### 3. 📂 Organizador Automático de Arquivos
-* **O Problema:** Pastas de downloads bagunçadas com milhares de arquivos misturados.
-* **A Solução:** Script que monitora pastas e move arquivos automaticamente baseados em extensão ou data para diretórios organizados.
-
----
-
-### 📈 Estatísticas
-
-![Suas Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dark&hide_border=true)
-![Suas Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dark&hide_border=true)
+* **Deployment & Tools:**
+    ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+    ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+    ![Executable Deployment](https://img.shields.io/badge/-PyInstaller-informational?style=flat)
 
 ---
 
-### 📫 Vamos conversar?
+### 🚀 Featured Projects
 
-Estou disponível para projetos freelance de automação e oportunidades em RPA.
+Here are some real-world problems I've solved with code:
 
-* [LinkedIn](SEU_LINK_DO_LINKEDIN)
-* [Email](mailto:SEU_EMAIL)
+#### 🤖 **Automated Invoice Retrieval System (RPA)**
+* **The Challenge:** A manual process requiring login to a utility portal, CAPTCHA handling, and downloading dozens of specific PDF invoices monthly.
+* **The Solution:** Developed a robust Python/Selenium bot with "Hybrid Login" capability (handling dynamic CAPTCHAs) to autonomously navigate, filter, and download files.
+* **Impact:** Eliminated manual data entry errors and reduced processing time by 90%.
+* [View Repository](#) *(Link to your repo)*
+
+#### 📊 **Market Intelligence Scraper**
+* **The Challenge:** Aggregating pricing data from multiple e-commerce sources to analyze market trends.
+* **The Solution:** A high-speed scraper using `Requests` and `Pandas` to extract, clean, and structure data into actionable Excel reports.
+* **Impact:** Provided real-time competitive analysis data for decision-making.
+* [View Repository](#) *(Link to your repo)*
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=dark&hide_border=true&bg_color=0d1117"/>
+</div>
+
+---
+
+### 📫 Let's Connect
+
+I am open to **Freelance projects** and **Full-time opportunities** in Automation and Python Development.
+
+* [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN)
+* [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI)
