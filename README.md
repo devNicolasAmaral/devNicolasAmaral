@@ -1,4 +1,4 @@
-# Olá, eu sou o [Seu Nome]! 👋
+# Olá, eu sou o Nicolas Amaral! 👋
 ## Desenvolvedor Python | Especialista em Automação & RPA
 
 > *"Transformo tarefas manuais repetitivas em scripts eficientes."*
