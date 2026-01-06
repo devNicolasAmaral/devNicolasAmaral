@@ -30,13 +30,13 @@ Atuo como freelancer resolvendo problemas reais de empresas, desde a coleta de d
 
 ### 🚀 Projetos em destaque
 
+#### 📊 [Gestor de Investimentos](https://github.com/devNicolasAmaral/dashboard-investimento)
+> Ferramenta de inteligência de mercado que monitora preços de concorrentes.  
+> Coleta dados em tempo real, trata as informações (limpeza de R$, formatação) e exporta relatórios prontos para decisão em Excel/Google Sheets.
+
 #### 🤖 [Auto-Invoice Downloader (RPA)](#)
 > Robô de automação para setor financeiro/utilities (Ex: Neoenergia).  
 > Realiza login híbrido (humano/robô), navega por portais complexos e baixa faturas em PDF automaticamente, organizando por data e vencimento.  
-
-#### 📊 [E-commerce Price Monitor](#)
-> Ferramenta de inteligência de mercado que monitora preços de concorrentes.  
-> Coleta dados em tempo real, trata as informações (limpeza de R$, formatação) e exporta relatórios prontos para decisão em Excel/Google Sheets.  
 
 #### 📂 [Smart File Organizer](#)
 > Script de infraestrutura que monitora diretórios de downloads e servidores de arquivos.  
