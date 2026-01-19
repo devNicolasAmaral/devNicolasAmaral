@@ -35,7 +35,7 @@ Aplicação desenvolvida para monitoramento e controle de portfólio de investim
 * **Banco de Dados:** Modelagem relacional e persistência com **PostgreSQL**.
 * **DevOps:** Ambiente de desenvolvimento e produção padronizado via **Docker**.
 
-[🔗 Acessar Repositório](#)
+[🔗 Acessar Repositório](https://github.com/devNicolasAmaral/dashboard-investimento)
 
 ---
 
