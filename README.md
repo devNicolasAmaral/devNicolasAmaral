@@ -1,6 +1,6 @@
 # Nicolas Amaral
 
-**Desenvolvedor Backend | Python • FastAPI • C# • SQL**
+**Desenvolvedor Backend | Python • FastAPI • SQL**
 
 Desenvolvo aplicações backend com foco em automação de processos, APIs REST e bancos de dados relacionais.
 
