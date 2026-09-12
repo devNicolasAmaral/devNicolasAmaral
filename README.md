@@ -10,20 +10,20 @@ Minha experiência em ambientes corporativos mostrou como processos manuais pode
 
 # Projetos
 
-## Automação ETL para Notas Fiscais XML
+## API de Transferências Bancárias
 
-Aplicação em Python para leitura em lote de Notas Fiscais XML, tratamento dos dados e geração automática de planilhas Excel.
+API backend para simulação de transferências bancárias com foco em transações, consistência de dados, validações e regras de negócio financeiras.
 
-**Tecnologias:** Python • Pandas • XML • Tkinter
+**Tecnologias:** Python • FastAPI • SQLAlchemy • PostgreSQL • Docker • Pytest
 
 **Repositório:**  
-https://github.com/devNicolasAmaral/extrator_nfe
+https://github.com/devNicolasAmaral/banco-transfer-api
 
 ---
 
 ## Sistema de Gestão de Ativos Financeiros
 
-Plataforma web para gerenciamento de investimentos utilizando FastAPI, PostgreSQL, Docker e NiceGUI.
+Aplicação web para cadastro de ativos, consulta de patrimônio e acompanhamento de carteira. O back-end usa arquitetura assíncrona, API REST e PostgreSQL para aplicar regras de negócio e integrar os dados financeiros à interface.
 
 **Tecnologias:** Python • FastAPI • PostgreSQL • Docker • NiceGUI
 
@@ -37,7 +37,6 @@ https://github.com/devNicolasAmaral/dashboard-investimento
 **Backend**
 
 - Python
-- C#
 - FastAPI
 
 **Banco de Dados**
